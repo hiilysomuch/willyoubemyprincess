@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!! :3";
+  titleElement.innerHTML = "LETS GOOOO YOURE THE BEST ILY, btw u just accepted being loved for eternity";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
