@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "LETS GOOOO YOURE THE BEST ILY, btw u just accepted being loved for eternity";
+  titleElement.innerHTML = "LETS GOOOO YOURE THE BEST ILY, btw u just accepted being loved for eternity UR STUCK THERES NO WAY OUT NOW.";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
